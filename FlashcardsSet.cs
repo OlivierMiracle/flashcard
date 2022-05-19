@@ -1,5 +1,7 @@
-namespace flashcard;
-
+/*
+ * Written by  Adam Ciszewski
+*/
+/*namespace flashcard;
 public class FlashcardsSet
 {
     public string Name;
@@ -13,6 +15,11 @@ public class FlashcardsSet
     {
         Flashcards.Add(new Flashcard(obverse, reverse, gamemode));
     }
+    
+    public void RenameSet(string newname)
+    {
+        Name = newname;
+    }
 }
 public class Flashcard
 {
@@ -25,4 +32,4 @@ public class Flashcard
         Reverse = reverse;
         Gamemode = gamemode;
     }
-}
+}*/
